@@ -6,7 +6,7 @@ var mapboxSketch = function () {
   // Create the map instance with your custom style
   const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/chelseajhai/cmdchuwss003p01rvduif742c',
+    style: 'mapbox://styles/mapbox/dark-v11',
     center: [-74.006, 40.7128],
     zoom: 11,
     pitch: 0,
