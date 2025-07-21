@@ -36,8 +36,8 @@ var mapboxSketch = function () {
       type: 'circle',
       source: 'lpi-signals',
       paint: {
-        'circle-radius': 4,
-        'circle-color': '#ff7800',
+        'circle-radius': 3,
+        'circle-color': '#ecd4fc',
         'circle-stroke-width': 0.5,
         'circle-stroke-color': '#fff',
       },
